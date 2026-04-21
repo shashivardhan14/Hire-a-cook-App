@@ -20,20 +20,24 @@ Review & Ratings : Option to rate cooks based on food quality, punctuality, and 
 
 USER INTERFACE(UI)
 
-HOME SCREEN
+HOME SCREEN & REELS SCREEN  
 
-<img src="Screenshot.jpg" width="50%"> 
+<img src="Screenshot.jpg" width="30%">  <img src="Screenshot-1.jpg" width="30%"> 
 
-REELS SCREEN
 
-<img src="Screenshot-1.jpg" width="50%">
+......................................................................................................................................................
 
-FAVORITES SCREEN
 
-<img src="Screenshot-2.jpg" width="50%">
 
-PROFILE SCREEN
+FAVORITES SCREEN & PROFILE SCREEN
 
-<img src="Screenshot-3.jpg" width="50%">
+
+<img src="Screenshot-2.jpg" width="30%"> <img src="Screenshot-3.jpg" width="30%">
+
+
+
+
+
+
 
 
